@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**gabriel-TheCode/gabriel-TheCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 💻💫 Welcome to my world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m a Mobile App developer / Android Evangelist / Technical Writer
+- ❤️ Android, Kotlin, React Native
+- 🔭 I’m currently working for WHO Academy as Android Developer
+- 👯 ***#1xEngineer***
+- 😄 I love to create
+- 💬 French & English
+
+- ⚡ From Cameroon to the World 🇨🇲✈🌎
+
+
+#### 📫 How to reach me: http://gabriel-thecode.herokuapp.com/
