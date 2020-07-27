@@ -3,7 +3,7 @@
 
 #### 💻💫 Welcome to my world
 
-- 👨‍💻 I’m a Mobile App developer / Android Evangelist / Technical Writer
+- 👨‍💻 I’m a Mobile App developer / Android Enthusiast / Technical Writer
 - ❤️ Android, Kotlin, React Native
 - 🔭 I’m currently working for [WHO Academy](https://github.com/WorldHealthOrganization) as Android Developer
 - 👯 ***#1xEngineer***
