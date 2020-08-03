@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m a Mobile App developer / Android Enthusiast / Technical Writer
 - ❤️ Android, Kotlin, React Native
-- 🔭 I’m currently working for [WHO Academy](https://github.com/WorldHealthOrganization) as Android Developer
+- 🔭 I’m currently working for [WHO Academy](https://github.com/who-academy) and [Digital House International](https://digitalhouse-int.com/) as Android Developer
 - 👯 ***#1xEngineer***
 - 😄 I love to create
 - 💬 French & English
