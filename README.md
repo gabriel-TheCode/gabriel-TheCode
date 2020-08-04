@@ -13,9 +13,10 @@
 - 🖌️ Post my drawings on [Instagram](https://www.instagram.com/pencil_mood).
 - ⚡ From Cameroon to the World 🇨🇲✈🌎
 
+![github stats](https://github-readme-stats.vercel.app/api?username=gabriel-thecode&show_icons=true)
+
 ---
 
 #### 📫 How to reach me: http://gabriel-thecode.herokuapp.com/
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gabriel_theCode.svg?style=social)](https://twitter.com/gabriel_theCode)
-
