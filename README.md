@@ -17,6 +17,6 @@
 
 ---
 
-#### 📫 How to reach me: http://gabriel-thecode.herokuapp.com/
+#### 📫 How to reach me: http://gabrielthecode.com/
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gabriel_theCode.svg?style=social)](https://twitter.com/gabriel_theCode)
