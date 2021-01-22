@@ -1,5 +1,4 @@
-<h2>𝙷𝚒 𝚊𝚕𝚕, 𝙸'𝚖 <𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗧𝗵𝗲 𝗖𝗼𝗱𝗲/>! <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<h2>𝙷𝚒 𝚊𝚕𝚕, 𝙸'𝚖 <𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗧𝗵𝗲 𝗖𝗼𝗱𝗲/> ! <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
 #### 💻💫 Welcome to my world
@@ -22,4 +21,8 @@
 
 #### 📫 How to reach me: http://gabrielthecode.com/
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gabriel_theCode.svg?style=social)](https://twitter.com/gabriel_theCode)
+<a href="https://www.linkedin.com/in/tekombo-gabriel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/gabriel__the__code" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.pinterest.com/gabriel_thecode/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?&style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+<a href="https://medium.com/@gabriel_theCode" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://twitter.com/gabriel_theCode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
