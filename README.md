@@ -7,7 +7,7 @@
 - 👨‍💻 I’m a Mobile App developer / Android Enthusiast / Technical Writer
 - ❤️ Android, Kotlin, JetPack Compose
 - 🔭 I’m currently working for [WHO Academy](https://github.com/WHOAcademy) as Android Developer
-- 👯 ***#1xEngineer***
+- 👯 [***#1xEngineer***](https://1x.engineer/)
 - 😄 I love to create
 - 💬 French & English
 - ✍️ Write stuff on [Medium](https://medium.com/@gabriel_theCode). 
