@@ -1,10 +1,11 @@
-### Hi there 👋
+<h2>𝙷𝚒 𝚊𝚕𝚕, 𝙸'𝚖 <𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗧𝗵𝗲 𝗖𝗼𝗱𝗲/>! <img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 
 #### 💻💫 Welcome to my world
 
 - 👨‍💻 I’m a Mobile App developer / Android Enthusiast / Technical Writer
-- ❤️ Android, Kotlin, React Native
+- ❤️ Android, Kotlin, JetPack Compose
 - 🔭 I’m currently working for [WHO Academy](https://github.com/WHOAcademy) as Android Developer
 - 👯 ***#1xEngineer***
 - 😄 I love to create
