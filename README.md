@@ -15,9 +15,11 @@
 - 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-![github stats](https://github-readme-stats.vercel.app/api?username=gabriel-thecode&show_icons=true&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)
+  
+[![github stats](https://github-readme-stats.vercel.app/api?username=gabriel-thecode&show_icons=true&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-thecode&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
   
 ---
