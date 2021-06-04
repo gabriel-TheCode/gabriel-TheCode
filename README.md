@@ -12,11 +12,11 @@
 - ✍️ Write stuff on [Medium](https://medium.com/@gabriel_theCode). 
 - 🖌️ Post my drawings on [Instagram](https://www.instagram.com/pencil_mood).
 - ⚡ From Cameroon to the World 🇨🇲✈🌎
-- 
+
 <details>
-  <summary><b>📊 Github Stats</b></summary>
+  <summary><b>📊 Github Stats</b></summary><br/>
   
-[![github stats](https://github-readme-stats.vercel.app/api?username=gabriel-thecode&show_icons=true&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)
+![github stats](https://github-readme-stats.vercel.app/api?username=gabriel-thecode&show_icons=true&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-thecode&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
