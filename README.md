@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m a Mobile App developer / Android Enthusiast / Technical Writer
 - ❤️ Android, Kotlin, JetPack Compose
-- 🔭 Freelance Android Developer
+- 🔭 Android Developer at [Pictarine](https://pictarine.com/)
 - 👯 [***#1xEngineer***](https://1x.engineer/)
 - 😄 I love to create
 - 💬 French & English
