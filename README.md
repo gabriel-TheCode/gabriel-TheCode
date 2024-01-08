@@ -1,12 +1,12 @@
 <h2>Hi there, I'm { Gᴀʙʀɪᴇʟ Tʜᴇ ᴄᴏᴅᴇ } !<img src="https://github.com/gabriel-TheCode/gabriel-TheCode/blob/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
-👨‍💻 A professional <b>Android developer</b> at [Pictarine](https://pictarine.com/), who devotes his time and knowledge to creating intuitive mobile applications with the best possible user experience. My goal is to start from nothing, and idea or an existing average mobile app, and turn it into an outstanding product, in other words: extremely pleasant, effective and efficient.
+👨‍💻 A professional <b>Android developer</b> at [BlaBlaCar](https://blablacar.com/), who devotes his time and knowledge to creating intuitive mobile applications with the best possible user experience. My goal is to start from nothing, and idea or an existing average mobile app, and turn it into an outstanding product, in other words: extremely pleasant, effective and efficient.
 
 🥷🏽  My favorite tech stack: `Android`, `Kotlin`, `XML`, `Jetpack Compose`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`
 
 - 🔭 I'm currently exploring Kotlin Flows & Jetpack Compose
 - 💬 I speak French (Native) & English (B2)
-- 😎 I consider myself a [#1xEngineer](https://1x.engineer/)
+- 😎 [#1xEngineer](https://1x.engineer/)
 - 🖌️ I post my drawings on [Instagram](https://www.instagram.com/pencil_mood)
 - ⚡ From Cameroon to the World 🇨🇲  ✈  🌎
   
