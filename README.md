@@ -22,7 +22,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabrielthecode.com/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:tekombo.gabriel@gmail.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:gabriel.tekombo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tekombo-gabriel/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@gabriel_theCode)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/gabriel_theCode)
