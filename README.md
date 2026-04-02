@@ -4,8 +4,8 @@
 
 🥷🏽  My favorite tech stack: `Android`, `Kotlin`, `XML`, `Jetpack Compose`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`
 
-- 🔭 I'm currently exploring Kotlin Flows & Jetpack Compose
-- 💬 I speak French (Native) & English (B2)
+- 🔭 I'm currently exploring Kotlin Multiplatform and AI tools.
+- 💬 I speak French & English
 - 😎 [#1xEngineer](https://1x.engineer/)
 - 🖌️ I post my drawings on [Instagram](https://www.instagram.com/pencil_mood)
 - ⚡ From Cameroon to the World 🇨🇲  ✈  🌎
