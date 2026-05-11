@@ -2,7 +2,7 @@
 
 👨‍💻 An experienced <b>Android engineer</b>, who devotes his time and knowledge to create intuitive mobile applications with the best possible user experience. My goal is to start from nothing, and idea or an existing average mobile app, and turn it into an outstanding product, in other words: extremely pleasant, effective and efficient.
 
-🥷🏽  My favorite tech stack: `Android`, `Kotlin`, `XML`, `Jetpack Compose`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`
+🥷🏽  My favorite tech stack: `Android`, `Kotlin`, `Jetpack Compose`, `MVVM`, `MVI`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`Paging`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`, 
 
 - 🔭 I'm currently exploring Kotlin Multiplatform and AI tools.
 - 💬 I speak French & English
