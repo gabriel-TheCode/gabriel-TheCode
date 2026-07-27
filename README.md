@@ -4,7 +4,7 @@
 
 🥷🏽 My favorite tech stack: `Android`, `Kotlin`, `Kotlin Multiplatform`, `Jetpack Compose`, `Clean Architecture`, `MVI`, `MVVM`, `Coroutines & Flow`, `Dagger-Hilt`, `Architecture Components` (`Paging`, `Lifecycle`, `Room`, `ViewModel`), `Media3/ExoPlayer`, `Retrofit`, `CI/CD`
 
-- 📱 I ship my own products too: [Electron IPTV](https://play.google.com/store/apps/dev?id=your-dev-id) on Google Play
+- 📱 I ship my own products too: [Electron IPTV](https://play.google.com/store/apps/details?id=com.gabrielthecode.electroniptv) on Google Play
 - 🔭 Currently going deeper into Kotlin Multiplatform (iOS via KMP) and AI-assisted engineering
 - ✍🏽 I write about Android on [Medium](https://medium.com/@gabriel_theCode) for the Android Mood publication
 - 💬 I speak French & English
